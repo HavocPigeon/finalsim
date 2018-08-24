@@ -1,0 +1,1 @@
+update colors set name = $1 where id = 1;
